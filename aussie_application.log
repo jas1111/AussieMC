@@ -1,0 +1,166 @@
+2018-06-18 14:56:22,324  INFO [main] SearchPage:79 - S10E31-Done
+2018-06-18 14:56:30,221  INFO [main] SearchPage:79 - S10E30-Done
+2018-06-18 14:56:30,278  INFO [main] SearchPage:79 - S10E29-Done
+2018-06-18 14:56:30,346  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:56:30,403  INFO [main] SearchPage:79 - S10E28-Done
+2018-06-18 14:56:30,464  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:56:30,517  INFO [main] SearchPage:79 - S10E26-Done
+2018-06-18 14:57:23,848  INFO [main] SearchPage:79 - S10E31-Done
+2018-06-18 14:57:23,920  INFO [main] SearchPage:79 - S10E30-Done
+2018-06-18 14:57:24,051  INFO [main] SearchPage:79 - S10E29-Done
+2018-06-18 14:57:24,127  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:57:24,187  INFO [main] SearchPage:79 - S10E28-Done
+2018-06-18 14:57:24,242  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:57:24,298  INFO [main] SearchPage:79 - S10E26-Done
+2018-06-18 14:58:20,170  INFO [main] SearchPage:79 - S10E31-Done
+2018-06-18 14:58:20,233  INFO [main] SearchPage:79 - S10E30-Done
+2018-06-18 14:58:20,297  INFO [main] SearchPage:79 - S10E29-Done
+2018-06-18 14:58:20,366  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:58:20,419  INFO [main] SearchPage:79 - S10E28-Done
+2018-06-18 14:58:20,477  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:58:20,533  INFO [main] SearchPage:79 - S10E26-Done
+2018-06-18 14:59:11,880  INFO [main] SearchPage:79 - S10E31-Done
+2018-06-18 14:59:12,047  INFO [main] SearchPage:79 - S10E30-Done
+2018-06-18 14:59:12,124  INFO [main] SearchPage:79 - S10E29-Done
+2018-06-18 14:59:12,189  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:59:12,244  INFO [main] SearchPage:79 - S10E28-Done
+2018-06-18 14:59:12,309  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 14:59:12,364  INFO [main] SearchPage:79 - S10E26-Done
+2018-06-18 15:01:08,801  INFO [main] SearchPage:79 - S10E31-Done
+2018-06-18 15:01:08,870  INFO [main] SearchPage:79 - S10E30-Done
+2018-06-18 15:01:08,932  INFO [main] SearchPage:79 - S10E29-Done
+2018-06-18 15:01:08,990  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 15:01:09,048  INFO [main] SearchPage:79 - S10E28-Done
+2018-06-18 15:01:09,111  INFO [main] SearchPage:79 - S10E27-Done
+2018-06-18 15:01:09,166  INFO [main] SearchPage:79 - S10E26-Done
+2018-06-18 15:42:44,734  INFO [main] SearchPage:76 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:42:44,753  INFO [main] SearchPage:83 - S10E31-Done
+2018-06-18 15:42:44,754  INFO [main] SearchPage:101 - ----------Writing New episode ID to file and downloading
+2018-06-18 15:42:45,120  INFO [main] SearchPage:107 - [[ChromeDriver: chrome on MAC (a312832c73674b6dd1a480cef527edac)] -> xpath: //*[@id='header_holder']/table[5]/tbody/tr[3]/td[3]/a[2]]
+2018-06-18 15:42:45,120  INFO [main] SearchPage:108 - ---------- Downloading the file
+2018-06-18 15:42:45,121  INFO [main] SearchPage:112 - ----------- Downloading the FILE 
+2018-06-18 15:42:53,036  INFO [main] SearchPage:122 - >>>>>>>>>>>>>>>>> Episode ID Status log Done
+2018-06-18 15:42:53,083  INFO [main] SearchPage:76 - MasterChef.Australia.S10E30.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:42:53,104  INFO [main] SearchPage:83 - S10E30-Done
+2018-06-18 15:42:53,106  INFO [main] SearchPage:88 - ---------- Download already done
+2018-06-18 15:42:53,151  INFO [main] SearchPage:76 - MasterChef.Australia.S10E29.WEB.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:42:53,169  INFO [main] SearchPage:83 - S10E29-Done
+2018-06-18 15:42:53,169  INFO [main] SearchPage:88 - ---------- Download already done
+2018-06-18 15:42:53,216  INFO [main] SearchPage:76 - MasterChef.Australia.S10E27.HDTV.x264-FQM[eztv].mkv.torrent
+2018-06-18 15:42:53,240  INFO [main] SearchPage:83 - S10E27-Done
+2018-06-18 15:42:53,240  INFO [main] SearchPage:88 - ---------- Download already done
+2018-06-18 15:42:53,287  INFO [main] SearchPage:76 - MasterChef.Australia.S10E28.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:42:53,303  INFO [main] SearchPage:83 - S10E28-Done
+2018-06-18 15:42:53,304  INFO [main] SearchPage:88 - ---------- Download already done
+2018-06-18 15:42:53,347  INFO [main] SearchPage:76 - MasterChef.Australia.S10E27.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:42:53,364  INFO [main] SearchPage:83 - S10E27-Done
+2018-06-18 15:42:53,365  INFO [main] SearchPage:88 - ---------- Download already done
+2018-06-18 15:42:53,406  INFO [main] SearchPage:76 - MasterChef.Australia.S10E26.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:42:53,421  INFO [main] SearchPage:83 - S10E26-Done
+2018-06-18 15:42:53,422  INFO [main] SearchPage:88 - ---------- Download already done
+2018-06-18 15:49:51,479  INFO [main] SearchPage:75 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:49:51,498  INFO [main] SearchPage:81 - S10E31-Done
+2018-06-18 15:49:51,499  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:49:51,550  INFO [main] SearchPage:75 - MasterChef.Australia.S10E30.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:49:51,567  INFO [main] SearchPage:81 - S10E30-Done
+2018-06-18 15:49:51,567  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:49:51,616  INFO [main] SearchPage:75 - MasterChef.Australia.S10E29.WEB.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:49:51,639  INFO [main] SearchPage:81 - S10E29-Done
+2018-06-18 15:49:51,640  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:49:51,708  INFO [main] SearchPage:75 - MasterChef.Australia.S10E27.HDTV.x264-FQM[eztv].mkv.torrent
+2018-06-18 15:49:51,733  INFO [main] SearchPage:81 - S10E27-Done
+2018-06-18 15:49:51,733  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:49:51,778  INFO [main] SearchPage:75 - MasterChef.Australia.S10E28.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:49:51,794  INFO [main] SearchPage:81 - S10E28-Done
+2018-06-18 15:49:51,794  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:49:51,840  INFO [main] SearchPage:75 - MasterChef.Australia.S10E27.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:49:51,857  INFO [main] SearchPage:81 - S10E27-Done
+2018-06-18 15:49:51,857  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:49:51,899  INFO [main] SearchPage:75 - MasterChef.Australia.S10E26.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:49:51,913  INFO [main] SearchPage:81 - S10E26-Done
+2018-06-18 15:49:51,914  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:51:32,904  INFO [main] SearchPage:75 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:51:32,925  INFO [main] SearchPage:81 - S10E31-Done
+2018-06-18 15:51:32,925  INFO [main] SearchPage:98 - ----------Writing New episode ID to file and downloading
+2018-06-18 15:51:33,251  INFO [main] SearchPage:107 - ----------- Downloading the FILE 
+2018-06-18 15:51:40,921  INFO [main] SearchPage:117 - ----------- Episode ID Status log Done
+2018-06-18 15:51:40,976  INFO [main] SearchPage:75 - MasterChef.Australia.S10E30.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:51:40,996  INFO [main] SearchPage:81 - S10E30-Done
+2018-06-18 15:51:40,998  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:51:41,043  INFO [main] SearchPage:75 - MasterChef.Australia.S10E29.WEB.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:51:41,060  INFO [main] SearchPage:81 - S10E29-Done
+2018-06-18 15:51:41,060  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:51:41,110  INFO [main] SearchPage:75 - MasterChef.Australia.S10E27.HDTV.x264-FQM[eztv].mkv.torrent
+2018-06-18 15:51:41,126  INFO [main] SearchPage:81 - S10E27-Done
+2018-06-18 15:51:41,126  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:51:41,168  INFO [main] SearchPage:75 - MasterChef.Australia.S10E28.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:51:41,184  INFO [main] SearchPage:81 - S10E28-Done
+2018-06-18 15:51:41,186  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:51:41,230  INFO [main] SearchPage:75 - MasterChef.Australia.S10E27.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:51:41,247  INFO [main] SearchPage:81 - S10E27-Done
+2018-06-18 15:51:41,247  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 15:51:41,298  INFO [main] SearchPage:75 - MasterChef.Australia.S10E26.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 15:51:41,314  INFO [main] SearchPage:81 - S10E26-Done
+2018-06-18 15:51:41,314  INFO [main] SearchPage:86 - ---------- Download already done
+2018-06-18 16:05:06,959  INFO [main] SearchPage:79 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:06,985  INFO [main] SearchPage:85 - S10E31-Done
+2018-06-18 16:05:06,986  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:07,029  INFO [main] SearchPage:79 - MasterChef.Australia.S10E30.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:07,045  INFO [main] SearchPage:85 - S10E30-Done
+2018-06-18 16:05:07,045  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:07,094  INFO [main] SearchPage:79 - MasterChef.Australia.S10E29.WEB.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:07,113  INFO [main] SearchPage:85 - S10E29-Done
+2018-06-18 16:05:07,114  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:07,154  INFO [main] SearchPage:79 - MasterChef.Australia.S10E27.HDTV.x264-FQM[eztv].mkv.torrent
+2018-06-18 16:05:07,174  INFO [main] SearchPage:85 - S10E27-Done
+2018-06-18 16:05:07,174  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:07,217  INFO [main] SearchPage:79 - MasterChef.Australia.S10E28.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:07,231  INFO [main] SearchPage:85 - S10E28-Done
+2018-06-18 16:05:07,232  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:07,272  INFO [main] SearchPage:79 - MasterChef.Australia.S10E27.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:07,288  INFO [main] SearchPage:85 - S10E27-Done
+2018-06-18 16:05:07,288  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:07,329  INFO [main] SearchPage:79 - MasterChef.Australia.S10E26.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:07,344  INFO [main] SearchPage:85 - S10E26-Done
+2018-06-18 16:05:07,344  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:05:57,228  INFO [main] SearchPage:79 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:05:57,248  INFO [main] SearchPage:85 - S10E31-Done
+2018-06-18 16:05:57,249  INFO [main] SearchPage:102 - ----------Writing New episode ID to file and downloading
+2018-06-18 16:05:57,636  INFO [main] SearchPage:111 - ----------- Downloading the FILE 
+2018-06-18 16:06:05,454  INFO [main] SearchPage:121 - ----------- Episode ID Status log Done
+2018-06-18 16:06:05,504  INFO [main] SearchPage:79 - MasterChef.Australia.S10E30.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:06:05,526  INFO [main] SearchPage:85 - S10E30-Done
+2018-06-18 16:06:05,528  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:06:05,574  INFO [main] SearchPage:79 - MasterChef.Australia.S10E29.WEB.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:06:05,591  INFO [main] SearchPage:85 - S10E29-Done
+2018-06-18 16:06:05,591  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:06:05,637  INFO [main] SearchPage:79 - MasterChef.Australia.S10E27.HDTV.x264-FQM[eztv].mkv.torrent
+2018-06-18 16:06:05,654  INFO [main] SearchPage:85 - S10E27-Done
+2018-06-18 16:06:05,655  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:06:05,698  INFO [main] SearchPage:79 - MasterChef.Australia.S10E28.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:06:05,713  INFO [main] SearchPage:85 - S10E28-Done
+2018-06-18 16:06:05,714  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:06:05,759  INFO [main] SearchPage:79 - MasterChef.Australia.S10E27.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:06:05,774  INFO [main] SearchPage:85 - S10E27-Done
+2018-06-18 16:06:05,774  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 16:06:05,814  INFO [main] SearchPage:79 - MasterChef.Australia.S10E26.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 16:06:05,828  INFO [main] SearchPage:85 - S10E26-Done
+2018-06-18 16:06:05,829  INFO [main] SearchPage:90 - ---------- Download already done
+2018-06-18 22:10:39,070  INFO [TestNG-tests-1] SearchPage:78 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 22:10:39,089  INFO [TestNG-tests-1] SearchPage:84 - S10E31-Done
+2018-06-18 22:10:39,090  INFO [TestNG-tests-1] SearchPage:101 - ----------Writing New episode ID to file and downloading
+2018-06-18 22:10:39,615  INFO [TestNG-tests-1] SearchPage:111 - ----------- Downloading the FILE 
+2018-06-18 22:26:07,298  INFO [TestNG-tests-1] SearchPage:121 - ----------- Episode ID Status log Done
+2018-06-18 22:26:07,348  INFO [TestNG-tests-1] SearchPage:78 - MasterChef.Australia.S10E30.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 22:26:07,365  INFO [TestNG-tests-1] SearchPage:84 - S10E30-Done
+2018-06-18 22:26:07,367  INFO [TestNG-tests-1] SearchPage:101 - ----------Writing New episode ID to file and downloading
+2018-06-18 22:26:12,597  INFO [TestNG-tests-1] SearchPage:111 - ----------- Downloading the FILE 
+2018-06-18 22:44:51,238  INFO [TestNG-tests-1] SearchPage:121 - ----------- Episode ID Status log Done
+2018-06-18 22:44:51,293  INFO [TestNG-tests-1] SearchPage:78 - MasterChef.Australia.S10E29.WEB.x264-SPC[eztv].mkv.torrent
+2018-06-18 22:44:51,309  INFO [TestNG-tests-1] SearchPage:84 - S10E29-Done
+2018-06-18 22:44:51,309  INFO [TestNG-tests-1] SearchPage:101 - ----------Writing New episode ID to file and downloading
+2018-06-18 22:44:56,651  INFO [TestNG-tests-1] SearchPage:111 - ----------- Downloading the FILE 
+2018-06-18 22:57:32,828  INFO [TestNG-tests-1] SearchPage:78 - MasterChef.Australia.S10E31.HDTV.x264-SPC[eztv].mkv.torrent
+2018-06-18 22:57:32,848  INFO [TestNG-tests-1] SearchPage:84 - S10E31-Done
+2018-06-18 22:57:32,849  INFO [TestNG-tests-1] SearchPage:101 - ----------Writing New episode ID to file and downloading
+2018-06-18 22:57:33,368  INFO [TestNG-tests-1] SearchPage:111 - ----------- Downloading the FILE 

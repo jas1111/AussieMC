@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13193" started-at="2018-06-18T23:05:52Z" finished-at="2018-06-18T23:06:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13193" started-at="2018-06-18T23:05:52Z" finished-at="2018-06-18T23:06:05Z">
+      <class name="ag.eztv.qa.test.SearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:ag.eztv.qa.test.SearchPageTest@39c0f4a]" name="setUp" is-config="true" duration-ms="4364" started-at="2018-06-18T23:05:52Z" finished-at="2018-06-18T23:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchPageTitleTest()[pri:1, instance:ag.eztv.qa.test.SearchPageTest@39c0f4a]" name="searchPageTitleTest" duration-ms="22" started-at="2018-06-18T23:05:57Z" finished-at="2018-06-18T23:05:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageTitleTest -->
+        <test-method status="PASS" signature="searchPageDownloadTest()[pri:2, instance:ag.eztv.qa.test.SearchPageTest@39c0f4a]" name="searchPageDownloadTest" duration-ms="8710" started-at="2018-06-18T23:05:57Z" finished-at="2018-06-18T23:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPageDownloadTest -->
+        <test-method status="PASS" signature="torrentCleanupTest()[pri:3, instance:ag.eztv.qa.test.SearchPageTest@39c0f4a]" name="torrentCleanupTest" duration-ms="1" started-at="2018-06-18T23:06:05Z" finished-at="2018-06-18T23:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- torrentCleanupTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ag.eztv.qa.test.SearchPageTest@39c0f4a]" name="tearDown" is-config="true" duration-ms="78" started-at="2018-06-18T23:06:05Z" finished-at="2018-06-18T23:06:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ag.eztv.qa.test.SearchPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
