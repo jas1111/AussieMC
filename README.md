@@ -1,12 +1,12 @@
 # AussieMC
 Aussie Master Chef Episode downloads
-# Config to update
+# Config to update : pkg - config , fname - config.properties
 
 browser =chrome
 
 url = https://eztv.ag/search/?q1=&q2=1248&search=Search
 
-tor_path = /Users/<uname>/Downloads/
+tor_path = /Users/\<UNAME\>/Downloads/
   
 stats_filename = download_stats.txt
 
